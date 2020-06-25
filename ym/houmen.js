@@ -4,4 +4,3 @@
 //地址：荷蘭 GitHub。
 //g.webs-1._['GET_WEBSERVER-hw'],write.
 //.powered by yf.
-alert('歡迎來到本站！')
